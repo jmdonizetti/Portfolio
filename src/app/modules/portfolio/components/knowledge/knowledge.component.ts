@@ -1,5 +1,8 @@
 import { Component, signal } from '@angular/core';
 
+//interface
+import { IKnowledge } from '../../interface/IKnowledge.interface';
+
 @Component({
   selector: 'app-knowledge',
   imports: [],
@@ -7,7 +10,7 @@ import { Component, signal } from '@angular/core';
   styleUrl: './knowledge.component.scss'
 })
 export class KnowledgeComponent {
-  public arrayKnowledge = signal([
+  public arrayKnowledge = signal<IKnowledge[]>([
     {
       src: 'assets/icons/knowledge/html.svg',
       alt: 'Icone de conhecimento em html5'
