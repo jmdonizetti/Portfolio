@@ -25,5 +25,33 @@ export class ProjectsComponent {
         },
       ],
     },
+    {
+      src: "assets/img/projects/pokedex.png",
+      alt: "Projeto Pokedex",
+      title: "Pokedex",
+      width: '100px',
+      height: '51px',
+      description: "Pokedex criada com HTML5, CSS3 e JavaScript!",
+      links: [
+        {
+          name: 'Conheça o proeto',
+          href: 'https://jmdonizetti.github.io/pokedex/'
+        },
+      ],
+    },
+    {
+      src: "assets/img/projects/pokedex.png",
+      alt: "Projeto Pokedex",
+      title: "Pokedex",
+      width: '100px',
+      height: '51px',
+      description: "Pokedex criada com HTML5, CSS3 e JavaScript!",
+      links: [
+        {
+          name: 'Conheça o proeto',
+          href: 'https://jmdonizetti.github.io/pokedex/'
+        },
+      ],
+    },
   ]);
 }

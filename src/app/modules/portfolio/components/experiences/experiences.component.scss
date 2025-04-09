@@ -16,12 +16,10 @@
     margin-top: 10px;
     background: var(--black-010);
     border-radius: 7px;
-    color: var(--white);
 
     summary, article{
       padding: 10px 20px;
-      color: var(--grey);
-      transition: 500ms;
+      transition: 0.5s;
     }
 
     summary{
@@ -52,8 +50,7 @@
           content: url("../../../../../assets/img/chevron-up.png");
         }
 
-        background-color: var(--primary);
-        border-radius: 7px 7px 0 0 !important;
+        border-radius: 7px 7px 0 0;
       }
     }
 
