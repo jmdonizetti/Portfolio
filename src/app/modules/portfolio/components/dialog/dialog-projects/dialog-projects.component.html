@@ -11,6 +11,14 @@
 
   <nav>
     @for(item of getData()?.links; track item){
+      <a [href]="item.repositorio" target="_blank" class="btn btn-primary">
+          Repositório
+      </a>
+    }
+  </nav>
+
+  <nav>
+    @for(item of getData()?.links; track item){
       <a [href]="item.href" target="_blank" class="btn btn-primary">
         {{ item.name }}
       </a>

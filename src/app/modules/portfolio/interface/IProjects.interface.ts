@@ -7,6 +7,7 @@ export interface IProjects {
     description: string,
     links: [
       {
+        repositorio: string,
         name: string,
         href: string,
       },
