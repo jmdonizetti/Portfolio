@@ -1,6 +1,6 @@
 # Portfólio João Marcos Dev-Front-end Angular
 
-![jmdonizetti github io_Portfolio-joao_(iPhone 5_SE)](https://github.com/user-attachments/assets/32643613-e032-4898-92f5-b3f14994aec1)
+![jmdonizetti github io_Portfolio-joao_](https://github.com/user-attachments/assets/ca8d8918-b7ac-43e3-9306-6b0140c69823)
 
 
 
