@@ -1,7 +1,8 @@
 # Portfólio João Marcos Dev-Front-end Angular
 
-![preview](![127 0 0 1_5500_index html](C:\Users\Apollo\Downloads\jmdonizetti.github.io_Portfolio-joao)
-)
+![jmdonizetti github io_Portfolio-joao_(iPhone 5_SE)](https://github.com/user-attachments/assets/32643613-e032-4898-92f5-b3f14994aec1)
+
+
 
 > Convite de aniversario do meu filho
 
