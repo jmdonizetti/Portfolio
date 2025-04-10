@@ -25,8 +25,8 @@ export class ProjectsComponent {
       src: "assets/img/projects/pokedex.png",
       alt: "Projeto Pokedex",
       title: "Pokedex",
-      width: '100px',
-      height: '51px',
+      width: '120px',
+      height: '60px',
       description: "Pokedex criada com HTML5, CSS3 e JavaScript!",
       links:[
         {
@@ -39,27 +39,27 @@ export class ProjectsComponent {
       src: "assets/img/projects/todo-list.png",
       alt: "Projeto ToDo List",
       title: "To Do List",
-      width: '100px',
-      height: '51px',
-      description: "Projeto ToDo-list feito com Angular!",
+      width: '135px',
+      height: '135px',
+      description: "Projeto ToDo-list sendo finalizado com Angular, por favor aguarde!",
       links:[
         {
           name: 'Conheça o projeto',
-          href: 'https://jmdonizetti.github.io/pokedex/'
+          href: 'https://github.com/jmdonizetti'
         },
       ],
     },
     {
-      src: "assets/img/projects/todo-list.png",
-      alt: "Projeto ToDo List",
-      title: "To Do List",
-      width: '100px',
-      height: '51px',
-      description: "Projeto ToDo-list feito com Angular!",
+      src: "assets/img/projects/aguarde.png",
+      alt: "Projeto em construção",
+      title: "Construindo",
+      width: '135px',
+      height: '135px',
+      description: "Projeto em construção",
       links:[
         {
           name: 'Conheça o projeto',
-          href: 'https://jmdonizetti.github.io/pokedex/'
+          href: 'https://github.com/jmdonizetti'
         },
       ],
     },
