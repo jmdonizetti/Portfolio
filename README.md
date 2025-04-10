@@ -4,11 +4,11 @@
 
 
 
-> Convite de aniversario do meu filho
+> Portfólio
 
-Projeto construído para que os convidados possam confirmar sua presença, foi utilizado a API do WhatsApp para confirmação via mensagem direto no meu WhatsApp.
+Portfólio feito com 100% Angular, foi utilizado também Angular material.
 
-[🔗 Clique aqui para acessar](https://jmdonizetti.github.io/conviteApollo/)
+[🔗 Clique aqui para acessar]([https://jmdonizetti.github.io/conviteApollo/](https://jmdonizetti.github.io/Portfolio-joao/))
 
 
 
@@ -16,11 +16,11 @@ Projeto construído para que os convidados possam confirmar sua presença, foi u
 
 -HTML
 
--CSS
+-sCSS
 
--BootStrap
+-typeScript
 
--JavaScript
+-Angular
 
 -Github
 
@@ -29,3 +29,5 @@ Projeto construído para que os convidados possam confirmar sua presença, foi u
 Wpp (12)98226-8834
 
 j_donizetti@outlook.com
+
+https://jmdonizetti.github.io/Portfolio-joao/
