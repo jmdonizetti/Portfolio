@@ -29,6 +29,14 @@ export class ExperiencesComponent {
 
     {
       summary: {
+        strong: "Operador de telemarketing",
+        p: "ATENTO BRASIL | Maio 2018 a Mai/2019"
+      },
+      text: "<p>Operador de telemarketing ativo e receptivo, responsável pela retenção de clientes pós compra.</p>",
+    },
+
+    {
+      summary: {
         strong: "Auxiliar de logística",
         p: "BATISTELA | jun 2016 a jnov/2017"
       },
