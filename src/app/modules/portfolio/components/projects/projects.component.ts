@@ -22,7 +22,7 @@ export class ProjectsComponent {
   #dialog = inject(MatDialog);
   public arrayProjects = signal<IProjects[]>([
     {
-      src: "assets/img/projects/pokedex.png",
+      src: "assets/img/projects/pokedex.svg",
       alt: "Projeto Pokedex",
       title: "Pokedex",
       width: '120px',
