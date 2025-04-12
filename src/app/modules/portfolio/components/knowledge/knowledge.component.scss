@@ -11,17 +11,19 @@
   h2{
     text-align: center;
     margin: 0;
-    margin-bottom: 15px;
+    margin-top: 5px;
+    margin-bottom: 30px;
   }
 
   ul{
     margin-top: 0;
+    margin-bottom: 20px;
 
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 7px;
+    gap: 15px;
 
     li{
       width: 55px;
