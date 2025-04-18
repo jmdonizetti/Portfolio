@@ -27,11 +27,11 @@ export class ProjectsComponent {
       title: "Pokedex",
       width: '120px',
       height: '60px',
-      description: "Projeto feito com HTML5, CSS3 e JavaScript, onde foi utilizado o consumo da API PokéAPI, assim que o usuário passar o mouse no Pokémon ele mostra um GIF do Pokémon e o status dele, clicando no Voltorb abaixo ele faz uma busca por mais Pokémons.",
+      description: "Projeto feito com Angular e SCSS, onde foi utilizado o consumo da API PokéAPI, projeto tem uma barra de pesquisa para o usuário digitar o nome do Pokémon e ele apareça na tela, ao clicar no Pokémon ele abre os dados desse Pokémon.",
 
       links:[
         {
-          repositorio:"https://github.com/jmdonizetti/pokedex",
+          repositorio:"https://github.com/jmdonizetti/angular-pokedex",
           name: 'Conheça o projeto',
           href: 'https://jmdonizetti.github.io/pokedex/'
         },
@@ -42,8 +42,8 @@ export class ProjectsComponent {
       src: "assets/img/projects/projeto-ada.png",
       alt: "Projeto Ada-Santander-Coders-2023",
       title: "Projeto em grupo",
-      width: '115px',
-      height: '65px',
+      width: '110px',
+      height: '70px',
       description: "Projeto em grupo feito no curso da Ada-SantanderCoders 2023, esse projeto foi realizado utilizando HTML, CSS e Bootstrap, foco era criar uma página utilizando Bootstrap e deixando ela totalmente responsiva.",
 
       links:[
