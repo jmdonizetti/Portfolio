@@ -33,7 +33,7 @@ export class ProjectsComponent {
         {
           repositorio:"https://github.com/jmdonizetti/angular-pokedex",
           name: 'Conheça o projeto',
-          href: 'https://jmdonizetti.github.io/pokedex/'
+          href: 'https://jmdonizetti.github.io/angular-pokedex/'
         },
       ],
     },
