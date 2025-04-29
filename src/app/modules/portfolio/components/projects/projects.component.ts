@@ -27,7 +27,7 @@ export class ProjectsComponent {
       title: "Pokedex",
       width: '120px',
       height: '60px',
-      description: "Projeto feito com Angular e SCSS, onde foi utilizado o consumo da API PokéAPI, projeto tem uma barra de pesquisa para o usuário digitar o nome do Pokémon e ele apareça na tela, ao clicar no Pokémon ele abre os dados desse Pokémon.",
+      description: "Projeto feito com Angular, onde foi utilizado o consumo da API PokéAPI, projeto mostra 100 pokemons, ele tem uma barra de pesquisa para o usuário digitar o nome do Pokémon e ele apareça na tela, ao clicar no Pokémon ele abre os detalhes desse Pokémon.",
 
       links:[
         {
