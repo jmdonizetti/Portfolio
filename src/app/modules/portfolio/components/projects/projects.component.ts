@@ -25,8 +25,8 @@ export class ProjectsComponent {
       src: "assets/img/projects/pokedex.svg",
       alt: "Projeto Pokedex",
       title: "Pokedex",
-      width: '120px',
-      height: '60px',
+      width: '110px',
+      height: '100px',
       description: "Projeto feito com Angular, onde foi utilizado o consumo da API PokéAPI, projeto mostra 100 pokemons, ele tem uma barra de pesquisa para o usuário digitar o nome do Pokémon e ele apareça na tela, ao clicar no Pokémon ele abre os detalhes desse Pokémon.",
 
       links:[
@@ -34,6 +34,23 @@ export class ProjectsComponent {
           repositorio:"https://github.com/jmdonizetti/angular-pokedex",
           name: 'Conheça o projeto',
           href: 'https://jmdonizetti.github.io/angular-pokedex/'
+        },
+      ],
+    },
+
+    {
+      src: "assets/img/projects/todo-list.png",
+      alt: "Projeto toDo List",
+      title: "ToDo List",
+      width: '100px',
+      height: '90px',
+      description: "Este é um aplicativo To-Do List desenvolvido com Angular, que permite ao usuário gerenciar suas tarefas de forma simples e eficiente. O usuário pode adicionar novos itens à lista, editar tarefas existentes, excluir itens individualmente ou remover todos de uma vez. Para tornar a experiência mais segura e amigável, o sistema conta com integração do SweetAlert2, exibindo uma janela de confirmação antes da exclusão de qualquer item. ",
+
+      links:[
+        {
+          repositorio:"https://github.com/jmdonizetti/to-do-list/tree/main",
+          name: 'Conheça o projeto',
+          href: 'https://jmdonizetti.github.io/to-do-list/'
         },
       ],
     },
@@ -71,6 +88,22 @@ export class ProjectsComponent {
       ],
     },
 
+    {
+      src: "assets/img/projects/aguarde.png",
+      alt: "Projeto em construção",
+      title: "Construindo",
+      width: '130px',
+      height: '130px',
+      description: "Projeto em construção",
+      links:[
+        {
+          repositorio:"",
+          name: 'Conheça o projeto',
+          href: 'https://github.com/jmdonizetti'
+        },
+      ],
+    },
+    
     {
       src: "assets/img/projects/aguarde.png",
       alt: "Projeto em construção",
